@@ -17,11 +17,11 @@ This project showcases a fully responsive and interactive tour and travel platfo
 ## 🛠️ How to Run the Project:
 1. Clone the repository: 
    ```bash
-   git clone [[YOUR_GITHUB_LINK](https://github.com/Vikas-Rajliwal/Tour-travel.git)]
+   git clone [(https://github.com/Vikas-Rajliwal/Tour-travel.git)]
    ```
 2. Navigate to the project directory:
    ```bash
-   cd [YOUR_PROJECT_NAME]
+   cd [Tour-travel]
    ```
 3. Install dependencies:
    ```bash
